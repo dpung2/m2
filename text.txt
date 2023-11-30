@@ -13,7 +13,7 @@ https://hbolive.kplus.vn/__token__exp%3D1701366846~acl%3D%2Fbpk-tv%2Fprod_kplus_
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(WindowsNT6.3;Win64;x64) AppleWebKit/537.36(KHTML,likeGecko) Chrome/109.0.0.0Safari/537.36Edg/109.0.1518.115 ReactNativeVideo/3.4.4 Dalvik/2.1.0 ExoPlayerLib/2.13.38 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"2QF0vrRjKVzMGw4girbSzA","kid":"+ysujtgwx4DvkPjKc3uK2g"},{"kty":"oct","k":"BmaKxz2Uik//1UCG4wLKig","kid":"Q28ujtgwx4DvkPjKc3uK2g"},{"kty":"oct","k":"BHiV0Q0ukGjHpNV2NbAHmw","kid":"PIBy1ycwx4DvkPjKc3uK2g"}],"type":"temporary"}
-https://vstv.broadpeak-aas.com/__token__exp%3D1701365807~acl%3D%2Fbpk-tv%2Fprod_kplus_sport1hd%2Fdefault%2F%2A~id%3D1c58f67b-ef3f-4378-aafd-4d71a521e7d5~hmac%3D37009d12c64f1a7192ac0b30a35b11f80f9ddd375cb90c5a64d7f78a17ecf405/bpk-tv/prod_kplus_sport1hd/default/index.mpd
+https://hbolive.kplus.vn/__token__exp%3D1701367369~acl%3D%2Fbpk-tv%2Fprod_kplus_sport1hd%2Fdefault%2F%2A~id%3D339b13b7-9814-476d-ac67-885e6cf22a1e~hmac%3D2ee52b21b738ec576457a66710ea3add2cdf1dddb7ad870f3e4f99dbc74ef560/bpk-tv/prod_kplus_sport1hd/default/index.mpd
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🇻🇳|K+Plus" tvg-logo="https://i.imgur.com/O81yIqe.png",K+Sport 2
 #EXT-X-STREAM-INF:BANDWIDTH=3803560,AVERAGE-BANDWIDTH=3803560,CODECS="avc1.640028,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod"
