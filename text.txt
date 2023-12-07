@@ -5,35 +5,38 @@
 #EXT-X-STREAM-INF:BANDWIDTH=3803560,AVERAGE-BANDWIDTH=3803560,CODECS="avc1.640028,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod"
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(WindowsNT6.3;Win64;x64) AppleWebKit/537.36(KHTML,likeGecko) Chrome/109.0.0.0Safari/537.36Edg/109.0.1518.115 ReactNativeVideo/3.4.4 Dalvik/2.1.0 ExoPlayerLib/2.13.38 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"iRiB0YBq5mOxfAbH/Z6qtA","kid":"xveXPqfQCOKbzE6oBRqzmQ"},{"kty":"oct","k":"Q+7pEFsuWhUdd48IfxsEbA","kid":"DjuXPqfQCOKbzE6oBRqzmQ"},{"kty":"oct","k":"qu3X1w7ePEFrz7Czv3i7hA","kid":"B0zbh/bQCOKbzE6oBRqzmQ"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"JqOylscUUoP6Zrqlcst/dw","kid":"x++UY3GUy2Qnknuh0a3NWA"},{"kty":"oct","k":"l19uNn9v+1ibL+/rMr6GUw","kid":"DzOUY3GUy2Qnknuh0a3NWA"},{"kty":"oct","k":"2t/SGgp1hUtkPvqbJwhXyw","kid":"CETYrMCUy2Qnknuh0a3NWA"}],"type":"temporary"}
+
 https://hbolive.kplus.vn/__token__exp%3D1701973926~acl%3D%2Fbpk-tv%2Fprod_kplus_cinehd%2Fdefault%2F%2A~id%3D6d1eb9aa-c9a7-4309-a57d-f21f9b5d1899~hmac%3Ddc2781cb3758a049d8929df6bf2395ed56d59d23d8df79abb1d677b5b7031c6f/bpk-tv/prod_kplus_cinehd/default/index.mpd
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="🇻🇳|K+Plus" tvg-logo="https://i.imgur.com/YXG7fXr.png",K+Sport 1
 #EXT-X-STREAM-INF:BANDWIDTH=3803560,AVERAGE-BANDWIDTH=3803560,CODECS="avc1.640028,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod"
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(WindowsNT6.3;Win64;x64) AppleWebKit/537.36(KHTML,likeGecko) Chrome/109.0.0.0Safari/537.36Edg/109.0.1518.115 ReactNativeVideo/3.4.4 Dalvik/2.1.0 ExoPlayerLib/2.13.38 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"2QF0vrRjKVzMGw4girbSzA","kid":"+ysujtgwx4DvkPjKc3uK2g"},{"kty":"oct","k":"BmaKxz2Uik//1UCG4wLKig","kid":"Q28ujtgwx4DvkPjKc3uK2g"},{"kty":"oct","k":"BHiV0Q0ukGjHpNV2NbAHmw","kid":"PIBy1ycwx4DvkPjKc3uK2g"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"MhG7tYNEDtkRbR9IHNEkJw","kid":"qfQ/OQuKuvW2R8jouUpyBw"},{"kty":"oct","k":"HlcmAOZE/S45/qLHEqN4dg","kid":"8Tg/OQuKuvW2R8jouUpyBw"},{"kty":"oct","k":"kNlVpXIG8GpyuY3HHOEIPQ","kid":"6kmDglqKuvW2R8jouUpyBw"}],"type":"temporary"}
 https://hbolive.kplus.vn/__token__exp%3D1701973894~acl%3D%2Fbpk-tv%2Fprod_kplus_sport1hd%2Fdefault%2F%2A~id%3Da76e94fd-4e1e-4520-9514-c5348ae97cd3~hmac%3D1989f847cb82557918c4711324c321bff26e510c46b02ccd488c442d15ed594c/bpk-tv/prod_kplus_sport1hd/default/index.mpd
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🇻🇳|K+Plus" tvg-logo="https://i.imgur.com/O81yIqe.png",K+Sport 2
 #EXT-X-STREAM-INF:BANDWIDTH=3803560,AVERAGE-BANDWIDTH=3803560,CODECS="avc1.640028,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod"
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(WindowsNT6.3;Win64;x64) AppleWebKit/537.36(KHTML,likeGecko) Chrome/109.0.0.0Safari/537.36Edg/109.0.1518.115 ReactNativeVideo/3.4.4 Dalvik/2.1.0 ExoPlayerLib/2.13.38 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"T+0UvqSZ65uklVNiPLBUyg","kid":"COQT80zEum7IfFCxbTsSog"},{"kty":"oct","k":"3Ff/lp9Red6Jub5A++Hc2Q","kid":"UCgT80zEum7IfFCxbTsSog"},{"kty":"oct","k":"Mk06sUYf2bq/o0flsX2U5A","kid":"STlXPJvEum7IfFCxbTsSog"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ICustFmIas3sSgzvHvVpwA","kid":"EqCsBo/O24AQrkgKi834BA"},{"kty":"oct","k":"i/LrhqE2BDwa3dB3Z0sQJA","kid":"WuSsBo/O24AQrkgKi834BA"},{"kty":"oct","k":"shLBTOGqq3CmfI4BHwsoYw","kid":"U/XwT97O24AQrkgKi834BA"}],"type":"temporary"}
 https://hbolive.kplus.vn/__token__exp%3D1701973910~acl%3D%2Fbpk-tv%2Fprod_kplus_sport2hd%2Fdefault%2F%2A~id%3D947eef8b-3a77-479f-ad45-b5202d8b78c7~hmac%3Dd2bf5032b7cfdcd0ea3a9e02440a57e5be2b4d4a8bd204c386967ea83e0aacf1/bpk-tv/prod_kplus_sport2hd/default/index.mpd
 
 #EXTINF:-1 tvg-id="kaction" group-title="🇻🇳|K+Plus" tvg-logo="https://i.imgur.com/Jp58oyA.png",K+ACTINON
 #EXT-X-STREAM-INF:BANDWIDTH=3803560,AVERAGE-BANDWIDTH=3803560,CODECS="avc1.640028,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod"
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(WindowsNT6.3;Win64;x64) AppleWebKit/537.36(KHTML,likeGecko) Chrome/109.0.0.0Safari/537.36Edg/109.0.1518.115 ReactNativeVideo/3.4.4 Dalvik/2.1.0 ExoPlayerLib/2.13.38 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"kGCV5fQ7E45xg/f9N6gvxg","kid":"c9EmLhGfe4e906fGd0TKIQ"},{"kty":"oct","k":"I6U+L+L8jL1jJYtdP/1V4w","kid":"uxUmLhGfe4e906fGd0TKIQ"},{"kty":"oct","k":"/YUkV6mbWFdWu0JJ/WKqBQ","kid":"tCZqd2Cfe4e906fGd0TKIQ"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Y3cv3we7Dqs5ShacLo4iXg","kid":"GsChsTneMKuOwqLI4XQqOw"},{"kty":"oct","k":"QNyAcO0WT0CHHhopZgSTAA","kid":"YgShsTneMKuOwqLI4XQqOw"},{"kty":"oct","k":"nOhRYDzDCqDlLr4Zfkfdvg","kid":"WxXl+ojeMKuOwqLI4XQqOw"}],"type":"temporary"}
+
 https://hbolive.kplus.vn/__token__exp%3D1701973941~acl%3D%2Fbpk-tv%2Fprod_kplus_lifehd%2Fdefault%2F%2A~id%3D5feeef7f-3540-4148-b4a9-20180f516e60~hmac%3D3d738ff5bc1ed72071e8f4b12ba6f9489a715722d957d54701f9b403659a9a71/bpk-tv/prod_kplus_lifehd/default/index.mpd
 
 #EXTINF:-1 tvg-id="kkidshd" group-title="🇻🇳|K+Plus" tvg-logo="https://i.imgur.com/wDmEVBU.png",K+Kids
 #EXT-X-STREAM-INF:BANDWIDTH=3803560,AVERAGE-BANDWIDTH=3803560,CODECS="avc1.640028,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod"
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(WindowsNT6.3;Win64;x64) AppleWebKit/537.36(KHTML,likeGecko) Chrome/109.0.0.0Safari/537.36Edg/109.0.1518.115 ReactNativeVideo/3.4.4 Dalvik/2.1.0 ExoPlayerLib/2.13.38 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Vo689O22b5Ak+WeXkOaACw","kid":"glIwlsMfcKODwTY+yHCvbQ"},{"kty":"oct","k":"YXS5ieRHtG4ypqi/0ymgtw","kid":"ypYwlsMfcKODwTY+yHCvbQ"},{"kty":"oct","k":"9QilN3oipp8hWFYuuRpLOA","kid":"w6d03xIfcKODwTY+yHCvbQ"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"VmgjnfCwWiNz/kf8PWQllg","kid":"tfKt0FvumIJ+oGPU/YyUAw"},{"kty":"oct","k":"DEnM+Z++35Ezw0IK3dedRQ","kid":"/Tat0FvumIJ+oGPU/YyUAw"},{"kty":"oct","k":"tFmZRM25DSs+XMrV27Stzg","kid":"9kfxGarumIJ+oGPU/YyUAw"}],"type":"temporary"}
+
 https://hbolive.kplus.vn/__token__exp%3D1701973957~acl%3D%2Fbpk-tv%2Fprod_kplus_kidshd%2Fdefault%2F%2A~id%3D32ee9cee-23c2-40ba-8644-ff86b48b7066~hmac%3D8a5ccfcabd36b84bba7be2fa5cb9b043a026982d5753803c14cb1165c3b39fc5/bpk-tv/prod_kplus_kidshd/default/index.mpd
 
 #EXTINF:-1 tvg-id="klive1" group-title="🇻🇳|K+Plus" tvg-logo="https://i.imgur.com/3pdATEW.png",K+live 1
