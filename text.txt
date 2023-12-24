@@ -39,7 +39,7 @@ https://hbolive.kplus.vn/__token__exp%3D1703426103~acl%3D%2Fbpk-tv%2Fprod_kplus_
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"suQCoB/qJh+3eFwA1nrwQQ","kid":"Wu2cJsAwlmb5+yMez/OlJw"},{"kty":"oct","k":"RfVEd2Y4TzQr2dgc+VKQGw","kid":"GZhY3XEwlmb5+yMez/OlJw"},{"kty":"oct","k":"J3OK6ab1Xp7QW1+7j61jWw","kid":"YdxY3XEwlmb5+yMez/OlJw"}],"type":"temporary"}
 
-https://hbolive.kplus.vn/__token__exp%3D1702996429~acl%3D%2Fbpk-tv%2Fprod_kplus_kidshd%2Fdefault%2F%2A~id%3D6a79b93e-6e0d-40e5-ad5c-fa87f70ce670~hmac%3D0e339a8a1b63adf145c117872c53bccf1572e21205e100100b5f3f34e572ec46/bpk-tv/prod_kplus_kidshd/default/index.mpd
+https://hbolive.kplus.vn/__token__exp%3D1703426263~acl%3D%2Fbpk-tv%2Fprod_kplus_kidshd%2Fdefault%2F%2A~id%3De5048edb-c49c-44f9-bc89-97749194461f~hmac%3D6d362c2848ad70b8073158176c3017a92449d36f6f42546853da80411fa95130/bpk-tv/prod_kplus_kidshd/default/index.mpd
 
 #EXTINF:-1 tvg-id="klive1" group-title="🇻🇳|K+Plus" tvg-logo="https://i.imgur.com/3pdATEW.png",K+live 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -61,14 +61,14 @@ https://hbolive.kplus.vn/__token__exp%3D1702996446~acl%3D%2Fbpk-tv%2Fprod_histor
 #https://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv496&offset=1&nodelay=1
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"pRNpwFfXSlTayjyM2k61dg","kid":"hB0RT3oyTvC21cdGqoJfWA"},{"kty":"oct","k":"+Ioz+qJ67pYHsObjkYRWiw","kid":"Q8jNBisyTvC21cdGqoJfWA"},{"kty":"oct","k":"/DFI/IQMzBM+FMmsz+smMA","kid":"iwzNBisyTvC21cdGqoJfWA"}],"type":"temporary"}
 
-https://hbolive.kplus.vn/__token__exp%3D1702910255~acl%3D%2Fbpk-tv%2Fprod_onsportsnews%2Fdefault%2F%2A~id%3Db75882cc-4dea-4895-91dd-b1742112bd46~hmac%3Db34d5cc9b25d4aa232388d303a3d4e752b95e51361bf27974746b897fd169d00/bpk-tv/prod_onsportsnews/default/index.mpd
+https://hbolive.kplus.vn/__token__exp%3D1703426292~acl%3D%2Fbpk-tv%2Fprod_onsportsnews%2Fdefault%2F%2A~id%3De05404df-6de6-44f3-85af-69bbbd14a7cf~hmac%3D81f46233225ffdd5bb10de748c5402ca6417c201c69e41dd172661c7d9fbdda6/bpk-tv/prod_onsportsnews/default/index.mpd
 
 #EXTINF:-1  group-title="🇻🇳|K+MyTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ON%20Football%20HD.png",ON Football HD
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mmAjjqQxPs4A1fkmxdGGCg","kid":"0VVru+W5qz8565d+i3QeXw"},{"kty":"oct","k":"pzzR9mSKijNMOSPbn11Rag","kid":"2EQncpa5qz8565d+i3QeXw"},{"kty":"oct","k":"qgQ9JlWLE47PSnaVN3K2eQ","kid":"kAAncpa5qz8565d+i3QeXw"}],"type":"temporary"}
 
-https://hbolive.kplus.vn/__token__exp%3D1702910271~acl%3D%2Fbpk-tv%2Fprod_on_football%2Fdefault%2F%2A~id%3D86f826f2-d305-4db9-a398-08295a5565f9~hmac%3De4fe657c8d4c6afbd136811341a6207c9651d9235f3b2a9f034398bf8508c7ee/bpk-tv/prod_on_football/default/index.mpd
+https://hbolive.kplus.vn/__token__exp%3D1703426312~acl%3D%2Fbpk-tv%2Fprod_on_football%2Fdefault%2F%2A~id%3D909bd457-310f-4e23-a29e-723dc2cc6c7d~hmac%3D4a8cad2e3c4e57cd9ca68b2cd871cd9827276391b4c567c791b102ef8467248c/bpk-tv/prod_on_football/default/index.mpd
 
 #EXTINF:-1  group-title="🇻🇳|K+MyTV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ON%20Sports%20HD.png",ON Sports HD
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -76,7 +76,7 @@ https://hbolive.kplus.vn/__token__exp%3D1702910271~acl%3D%2Fbpk-tv%2Fprod_on_foo
 #https://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv264&offset=1&nodelay=1
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"DsFPEDEZaW32bvRQtdGslQ","kid":"fmjtp2NDTYq96Sp3Xcd6uA"},{"kty":"oct","k":"qgQ9JlWLE47PSnaVN3K2eQ","kid":"kAAncpa5qz8565d+i3QeXw"},{"kty":"oct","k":"tFmZRM25DSs+XMrV27Stzg","kid":"9kfxGarumIJ+oGPU/YyUAw"}],"type":"temporary"}
 
-https://hbolive.kplus.vn/__token__exp%3D1702910293~acl%3D%2Fbpk-tv%2Fprod_on_sports%2Fdefault%2F%2A~id%3Df2c99cad-cfc0-4169-acbc-833c01dd65bf~hmac%3D291eef3ddad3e945f4ffdb85cda67e71649e89c381001d2f64c839808fb72220/bpk-tv/prod_on_sports/default/index.mpd
+https://hbolive.kplus.vn/__token__exp%3D1703426339~acl%3D%2Fbpk-tv%2Fprod_on_sports%2Fdefault%2F%2A~id%3D1d6ab21a-515b-436c-a49a-9f652955ada8~hmac%3Db95093314c2076e28a9ee3e3bbc1d4f803572601d9451887dab4349a6d7bb0d3/bpk-tv/prod_on_sports/default/index.mpd
 
 #EXTINF:-1 group-title="🇻🇳|K+MyTV" tvg-id="bbclifestyle" tvg-logo="https://i.imgur.com/DEf0ydC.jpg",BBC Lifestyle
 #KODIPROP:inputstream.adaptive.manifest_type=dash
