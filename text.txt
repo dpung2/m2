@@ -7,7 +7,7 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"TB9ZCHEHwu7xx+GnxjbrNg","kid":"ziGXBwiA/dRq0s8sBDJZcg"},{"kty":"oct","k":"2lb2AeKe0cxRby3AhBsYAA","kid":"jcxTvrmA/dRq0s8sBDJZcg"},{"kty":"oct","k":"TB9ZCHEHwu7xx+GnxjbrNg","kid":"ziGXBwiA/dRq0s8sBDJZcg"}],"type":"temporary"}
 
-https://hbolive.kplus.vn/__token__exp%3D1704203021~acl%3D%2Fbpk-tv%2Fprod_kplus_cinehd%2Fdefault%2F%2A~id%3D8090d28f-2e87-484d-b46e-a875e0c832bf~hmac%3D68f1c30a7073350740278af2d7f4372f015c3af3c4e3610c06248588e3f88c5f/bpk-tv/prod_kplus_cinehd/default/index.mpd
+https://hbolive.kplus.vn/__token__exp%3D1704289502~acl%3D%2Fbpk-tv%2Fprod_kplus_cinehd%2Fdefault%2F%2A~id%3Dcce7a2fd-4800-4c6e-aa05-79e9d4c3026e~hmac%3D419a26bc2c3ed6c7698bdc1ce51fd381d9e44e9c946cc24bbcf7eba0d9c8aad0/bpk-tv/prod_kplus_cinehd/default/index.mpd
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="🇻🇳|K+Plus" tvg-logo="https://i.imgur.com/YXG7fXr.png",K+Sport 1
 #EXT-X-STREAM-INF:BANDWIDTH=3803560,AVERAGE-BANDWIDTH=3803560,CODECS="avc1.640028,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod"
@@ -15,7 +15,7 @@ https://hbolive.kplus.vn/__token__exp%3D1704203021~acl%3D%2Fbpk-tv%2Fprod_kplus_
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"oV6/vLQo1++oHA1QGdLTog","kid":"/VYxVajthFr4ul/t9Jds+A"},{"kty":"oct","k":"+KkG7DwPIHgJT6K0tPXb7A","kid":"vAHtDFnthFr4ul/t9Jds+A"},{"kty":"oct","k":"XluxL5V/7pi2b7jbeXis/g","kid":"BEXtDFnthFr4ul/t9Jds+A"}],"type":"temporary"}
 
-https://klive.kplus.vn/wmt:Njk5NQ.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InNvbG9jMDAyIn0.eyJ3bXZlciI6MSwid21wYXRmbXQiOiJiYXNlNjQiLCJ3bXBhdGxlbiI6MTAyNCwiaXNzIjoiU0ctY3BpIiwiZnJhZ2R1cmF0aW9uIjoxMjAwLCJ3bXBhdCI6IkJDZVZxVThBWVErTUZMMlRPYkpPcE96Tk5Uenh0MWFqUENqcEFiei9OUk5BRkhCUzdlRnQ4SlQxTzRUdVpMRVJ3WGVyY0ZTdThpekxMenVPcW1mN3hGSFhYWWsvM3FBVk16dnZOeXo5dzUrZUhRTXNyd0QzUllHQ3lkc0VQS01TTWJBRE16UE1vZDM5aFAvOWF1SGxRdzg3TzFreUVJNFlzMEp6R1lBWi95TT0iLCJhY2Nlc3NUb2tlblNlc3Npb25JZCI6IjY5OTUiLCJpYXQiOjE3MDQxODg1ODMsImV4cCI6MTcwNDIxNzM4M30.zJrUPWxXD2FehliFvbuO_GpXLK07O-m6IjpRjXIgL6o/kplus/prod_kplus_sport1hd/default/index.mpd
+https://klive.kplus.vn/wmt:Njk5NQ.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InNvbG9jMDAyIn0.eyJ3bXZlciI6MSwid21wYXRmbXQiOiJiYXNlNjQiLCJ3bXBhdGxlbiI6MTAyNCwiaXNzIjoiU0ctY3BpIiwiZnJhZ2R1cmF0aW9uIjoxMjAwLCJ3bXBhdCI6IkJDZVZxVThBWVErTUZMMlRPYkpPcE96Tk5Uenh0MWFqUENqcEFiei9OUk5BRkhCUzdlRnQ4SlQxTzRUdVpMRVJ3WGVyY0ZTdThpekxMenVPcW1mN3hGSFhYWWsvM3FBVk16dnZOeXo5dzUrZUhRTXNyd0QzUllHQ3lkc0VQS01TTWJBRE16UE1vZDM5aFAvOWF1SGxRdzg3TzFreUVJNFlzMEp6R1lBWi95TT0iLCJhY2Nlc3NUb2tlblNlc3Npb25JZCI6IjY5OTUiLCJpYXQiOjE3MDQyNzUwNjUsImV4cCI6MTcwNDMwMzg2NX0.oe0mtTx3Dg3gn7yCmK3WeT0xFxRy-nosJhtPKONPvCo/kplus/prod_kplus_sport1hd/default/index.mpd
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🇻🇳|K+Plus" tvg-logo="https://i.imgur.com/O81yIqe.png",K+Sport 2
 #EXT-X-STREAM-INF:BANDWIDTH=3803560,AVERAGE-BANDWIDTH=3803560,CODECS="avc1.640028,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod"
@@ -23,7 +23,7 @@ https://klive.kplus.vn/wmt:Njk5NQ.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6In
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"AgquGAi2sjHJd0XV4RxFtQ","kid":"TQPS4ismF534miqOkA6GVg"},{"kty":"oct","k":"QA+WzbwEaznK8z38S+cieQ","kid":"DK6OmdwmF534miqOkA6GVg"},{"kty":"oct","k":"6XkCOtlq6YH0Mg3rR/SyvQ","kid":"VPKOmdwmF534miqOkA6GVg"}],"type":"temporary"}
 
-https://hbolive.kplus.vn/__token__exp%3D1704203001~acl%3D%2Fbpk-tv%2Fprod_kplus_sport2hd%2Fdefault%2F%2A~id%3D2cae8e1e-db6c-414d-8b08-73dd815723f0~hmac%3D50217839cdf4f79ece0cb497393f583b6a36d9d6cae06f9d913f85136c5e236d/bpk-tv/prod_kplus_sport2hd/default/index.mpd
+https://hbolive.kplus.vn/__token__exp%3D1704289484~acl%3D%2Fbpk-tv%2Fprod_kplus_sport2hd%2Fdefault%2F%2A~id%3D2f6dcf88-b2d8-4be8-9c71-78c030446ed0~hmac%3Dfaafac9619a2999e7407ef3895f6ee7e6a103b7d63ecbd9b3834d84b493d6d56/bpk-tv/prod_kplus_sport2hd/default/index.mpd
 
 #EXTINF:-1 tvg-id="kaction" group-title="🇻🇳|K+Plus" tvg-logo="https://i.imgur.com/Jp58oyA.png",K+ACTINON
 #EXT-X-STREAM-INF:BANDWIDTH=3803560,AVERAGE-BANDWIDTH=3803560,CODECS="avc1.640028,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod"
@@ -31,7 +31,7 @@ https://hbolive.kplus.vn/__token__exp%3D1704203001~acl%3D%2Fbpk-tv%2Fprod_kplus_
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"yyjIrf+1RqdQ+ALw308YKg","kid":"n07nz4B7ABFmXxwpQ7+BrA"},{"kty":"oct","k":"01qC8wCIb6VmT7tzXiDF4Q","kid":"XvmjhjF7ABFmXxwpQ7+BrA"},{"kty":"oct","k":"RwfGdLXaPoAoIwr5iyaX3g","kid":"pj2jhjF7ABFmXxwpQ7+BrA"}],"type":"temporary"}
 
-https://hbolive.kplus.vn/__token__exp%3D1704203050~acl%3D%2Fbpk-tv%2Fprod_kplus_lifehd%2Fdefault%2F%2A~id%3Dc435e05d-e6cc-4a23-83ec-44b9a953a25d~hmac%3D736f7458cb1f522e4d993267c2d7790b9e46fbdbdee24f2ca8b3ad988cc42c30/bpk-tv/prod_kplus_lifehd/default/index.mpd
+https://hbolive.kplus.vn/__token__exp%3D1704289534~acl%3D%2Fbpk-tv%2Fprod_kplus_lifehd%2Fdefault%2F%2A~id%3D5389dd2c-4283-4488-8ca0-8b8d52c85e0b~hmac%3Dd93e94287758e7066296aa7074cde2988963a5ec64f4d8e85c606cb3677e7787/bpk-tv/prod_kplus_lifehd/default/index.mpd
 
 #EXTINF:-1 tvg-id="kkidshd" group-title="🇻🇳|K+Plus" tvg-logo="https://i.imgur.com/wDmEVBU.png",K+Kids
 #EXT-X-STREAM-INF:BANDWIDTH=3803560,AVERAGE-BANDWIDTH=3803560,CODECS="avc1.640028,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod"
@@ -39,7 +39,7 @@ https://hbolive.kplus.vn/__token__exp%3D1704203050~acl%3D%2Fbpk-tv%2Fprod_kplus_
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"suQCoB/qJh+3eFwA1nrwQQ","kid":"Wu2cJsAwlmb5+yMez/OlJw"},{"kty":"oct","k":"RfVEd2Y4TzQr2dgc+VKQGw","kid":"GZhY3XEwlmb5+yMez/OlJw"},{"kty":"oct","k":"J3OK6ab1Xp7QW1+7j61jWw","kid":"YdxY3XEwlmb5+yMez/OlJw"}],"type":"temporary"}
 
-https://hbolive.kplus.vn/__token__exp%3D1704203082~acl%3D%2Fbpk-tv%2Fprod_kplus_kidshd%2Fdefault%2F%2A~id%3Dd940e670-0ee3-44e7-b587-cf3e32438a18~hmac%3D66db4e524178f8ae7964311e87cee6327c2e5220e5638a9b749fc1377b3a4511/bpk-tv/prod_kplus_kidshd/default/index.mpd
+https://hbolive.kplus.vn/__token__exp%3D1704289557~acl%3D%2Fbpk-tv%2Fprod_kplus_kidshd%2Fdefault%2F%2A~id%3De01b0041-f3ab-4afa-8b1d-4a2e820b1c9d~hmac%3D137b3fc5148dfabd2f70ef19524f151981c5d3bd6fd7713a3e40466efa6d467d/bpk-tv/prod_kplus_kidshd/default/index.mpd
 
 #EXTINF:-1 tvg-id="klive1" group-title="🇻🇳|K+Plus" tvg-logo="https://i.imgur.com/3pdATEW.png",K+live 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
